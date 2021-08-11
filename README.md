@@ -11,8 +11,12 @@ console.log(ezColors.color("colorName")); //replace 'colorName' with one of the 
 ```
 
 ## 📂 | Available colors (More coming soon!)
-```YELLOW = "#FFF200"```
-```ORANGE = "#FC600"```
-```RED = "#D30000"```
-```PINK = "#FC0FC0"```
-```VIOLET = "#B200ED"```
+| Colors | Hex |
+| --- | --- |
+| YELLOW | #FFF200 |
+| RED | #D30000 |
+| PINK | #FC0FC0 |
+| VIOLET | #B200ED |
+| BLUE | #0018F9 |
+| GREEN | #3BB143 |
+| BROWN | #7C4700 |
