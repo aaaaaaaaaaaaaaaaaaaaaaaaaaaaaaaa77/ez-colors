@@ -1,0 +1,19 @@
+{
+  "name": "ez-colors",
+  "version": "1.0.6",
+  "description": "A easy to use npm package to add colours to your JS project with just the name of the specified color.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "colors",
+    "javascript",
+    "js",
+    "color",
+    "pallete",
+    "design"
+  ],
+  "author": "asterio",
+  "license": "ISC"
+}
