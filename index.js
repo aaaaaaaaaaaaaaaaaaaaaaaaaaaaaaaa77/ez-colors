@@ -69,6 +69,11 @@ module.exports = {
      else if (color === "FOSSIL") {
       color = colors.FOSSIL
       return color;
+    } else if(color === "AQUA") {
+      color = colors.AQUA
+      return color
     }
   }
 }
+
+
