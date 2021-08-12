@@ -71,7 +71,7 @@ module.exports = {
       return color;
     } else if(color === "AQUA") {
       color = colors.AQUA
-      return color
+      return color;
     }
   }
 }
