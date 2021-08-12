@@ -1,5 +1,5 @@
 ## 🎨 | ez-colors.js
-<img src="https://cdn.discordapp.com/attachments/836881193009938512/874207517012549642/3055d3dc-3064-49c1-2d81-76a228804707._RI_.jpg">
+<p align="center"><a href="https://nodei.co/npm/ez-colors/"><img alt="npm package stats" src="https://nodei.co/npm/ez-colors.png"></a></p>
 
 ## ⚡ | Info
 You dont need to worry about what hex code/color to put in your JS project anymore as ez-colors is here , ez-colors allows to add a hex code/color just by the color name.
